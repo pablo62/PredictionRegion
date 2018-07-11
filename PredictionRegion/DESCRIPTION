@@ -1,0 +1,13 @@
+Package: PredictionRegion
+Type: Package
+Title: Prediction Region for Small Normal Data Sets
+Version: 0.1.0
+Author: Pablo C. Chavarria <pablo.chavarria.189@gmail.com>
+Maintainer: Pablo C. Chavarria <pablo.chavarria.189@gmail.com>
+Description: Creates a prediction region for small normal data sets using conformal prediction, bootstrap & traditional t-intervals
+License: 
+Imports: rpart, party, rpart.plot, plyr, plotrix, e1071, normtest, nortest, moments, Lmoments
+Depends: rpart, party, rpart.plot, plyr, plotrix, e1071, normtest, nortest, moments, Lmoments
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
